@@ -1,4 +1,4 @@
-# Spam Classification using Naive Bayes
+# Email Spam Classification using Naive Bayes
 This repository contains a Python script for classifying spam and non-spam messages using the Naive Bayes algorithm with up to 98% accuracy on unseen examples. The script uses the spam_ham_dataset.csv dataset available at https://www.kaggle.com/datasets/venky73/spam-mails-dataset, which contains labeled spam and non-spam messages.
 
 ## Prerequisites
